@@ -1,0 +1,3 @@
+# Supabase Configuration for Edge Functions
+[functions.login]
+verify_jwt = false
